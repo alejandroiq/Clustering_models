@@ -1,4 +1,4 @@
-# 🧠 Applied Machine Learning Lab — DataVine Analytics
+# Applied Machine Learning with scikit learn 
 
 This repository presents three machine learning projects developed as part of a consulting simulation for **DataVine Analytics**, a boutique analytics firm serving clients across various sectors. The objective is to apply classification, recommendation, and clustering techniques to standardized datasets that mirror real-world business problems. The projects follow the **CRISP-DM workflow**: from data cleaning and preprocessing to modeling, evaluation, and interpretation.
 
